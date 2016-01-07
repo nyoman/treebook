@@ -1,0 +1,11 @@
+Step 1: Clone The Project and Create Database
+
+> git init
+> git clone git@github.com:nyoman/treebook.git
+> bundle
+> rake db:create:all
+> rake db:migrate
+
+
+Step 2: Installing Twitter Bootstrap
+
